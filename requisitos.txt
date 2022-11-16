@@ -1,0 +1,2 @@
+pip install spacy pandas unidecode matplotlib sklearn flask
+python -m spacy download es_core_news_md
